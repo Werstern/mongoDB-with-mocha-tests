@@ -1,0 +1,15 @@
+{
+  "name": "mongodb-with-mocha-testing",
+  "version": "1.0.0",
+  "description": "mongoDB database with mocha testing",
+  "main": "",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Werstern",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.0.1",
+    "mongoose": "^5.0.7"
+  }
+}
